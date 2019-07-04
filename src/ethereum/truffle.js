@@ -8,7 +8,7 @@ module.exports = {
     rinkeby: {
       provider: new HDWalletProvider(
         mnemonic,
-        'https://rinkeby.infura.io/XAmfM8SVSh5OkuiYMIBx',
+        'https://rinkeby.infura.io/v3/3f51992d2a8f4af0b15a025a2cbe3fdc',
         1
       ),
       network_id: 5,

@@ -3,7 +3,7 @@ import { Connect, SimpleSigner, MNID } from 'uport-connect'
 const uport = new Connect('React uPort IPFS DApp', {
     clientId: '2omYPjiPUiR6jyNdSZRHgbpn9PxiVqbtVsR',
     network: 'rinkeby',
-    signer: SimpleSigner('ab1d56711bcf6f7ded8a8b7f768d59e8f3d3a168b75b037848aa142b93e4998f')
+    signer: SimpleSigner('8db0ba1d7b3a9cb9b3ff7b759b9e008f27791a3e8e1ac6ff6b60180b8265b414')
 })
 
 const initAccount = async () => {

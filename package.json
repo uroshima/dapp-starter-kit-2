@@ -9,10 +9,10 @@
     "react-bootstrap": "^0.32.0",
     "react-dom": "^16.2.0",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.0",
+    "react-scripts": "5.0.1",
     "truffle-contract": "^3.0.7",
     "truffle-hdwallet-provider": "0.0.3",
-    "uport-connect": "^0.7.8"
+    "uport-connect": "^1.1.11"
   },
   "scripts": {
     "start": "react-scripts start",
